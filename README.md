@@ -1,2 +1,2 @@
 # Flappy-Bird-
-A Flappy Bird Game Project Created using phasor.js and HTML5
+A Flappy Bird Game Project Created using phaser.js and HTML5
